@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+  <table>
+    <tr>
+      <th>Name</th>
+      <th>Favorite Coding Language</th>
+      <th>Travel Time to Mentor Center</th>
+    </tr>
+    <tr>
+      <td>Sara</td>
+      <td>None</td>
+      <td>30 minutes</td>
+    </tr>
+    <tr>
+      <td>Jen</td>
+      <td>HTML</td>
+      <td>30 minutes</td>
+    </tr>
+  </table>
+</html>
